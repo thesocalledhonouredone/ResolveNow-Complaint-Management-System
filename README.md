@@ -10,7 +10,7 @@
 
 ## 📝 Documentation 
 
-> > [RESOLVENOW Docmuntation](https://drive.google.com/file/d/1ZixwcdQ-nGFCZ_iS4Qb9gQa8HqCDxFzK/view?usp=drive_link) 
+> > [RESOLVENOW Docmuntation]([https://drive.google.com/file/d/1ZixwcdQ-nGFCZ_iS4Qb9gQa8HqCDxFzK/view?usp=drive_link](https://drive.google.com/file/d/1SmXXPCTkJ6aMCw0Rr_MW6yshMyGoOcEx/view?usp=drive_link)) 
 
 ---
 
