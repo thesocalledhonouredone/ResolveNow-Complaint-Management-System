@@ -72,26 +72,44 @@
 ---
 
 ## 📁 Project Structure
-
-.
-├── client
-│ ├── src
-│ │ ├── components
-│ │ ├── contexts
-│ │ ├── pages
-│ │ ├── App.tsx
-│ │ └── main.tsx
-│ └── public
-├── server
-│ ├── models
-│ ├── routes
-│ ├── middleware
+ResolveNow/
+├── client/
+│ ├── public/
+│ └── src/
+│ ├── components/
+│ │ ├── Navbar.tsx
+│ │ └── ProtectedRoute.tsx
+│ ├── contexts/
+│ │ └── AuthContext.tsx
+│ ├── pages/
+│ │ ├── LandingPage.tsx
+│ │ ├── Login.tsx
+│ │ ├── Register.tsx
+│ │ ├── Dashboard.tsx
+│ │ ├── NewComplaint.tsx
+│ │ └── ComplaintDetails.tsx
+│ ├── App.tsx
+│ ├── main.tsx
+│ └── index.css
+├── server/
+│ ├── models/
+│ │ ├── User.js
+│ │ └── Complaint.js
+│ ├── routes/
+│ │ ├── auth.js
+│ │ ├── complaints.js
+│ │ └── users.js
+│ ├── middleware/
+│ │ └── auth.js
+│ ├── .env
 │ └── index.js
-└── README.md
+├── .gitignore
+├── package.json
+├── README.md
+.
 
 
 
----
 
 ## ⚙️ Getting Started
 
