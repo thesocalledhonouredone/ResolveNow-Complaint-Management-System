@@ -72,6 +72,7 @@
 ---
 
 ## 📁 Project Structure
+<pre>
 ResolveNow/
 ├── client/
 │ ├── public/
@@ -107,7 +108,7 @@ ResolveNow/
 ├── package.json
 ├── README.md
 .
-
+</pre>
 
 
 
