@@ -6,16 +6,19 @@
 
 ## 🌐 Live Demo
 
-> [🔗 View Live (Optional)](https://your-deployed-site.com)
+> [RESOLVENOW VIDEO DEMO](https://drive.google.com/file/d/1ZixwcdQ-nGFCZ_iS4Qb9gQa8HqCDxFzK/view?usp=drive_link)
 
 ---
 
 ## 📸 Screenshots
 
-![Landing Page](./screenshots/landing.png)
-![User Dashboard](./screenshots/user-dashboard.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-![Engineer Dashboard](./screenshots/engineer-dashboard.png)
+![Landing Page](https://github.com/user-attachments/assets/0269f609-b612-4d26-adc1-3667a97fc3a8)
+
+![User Dashboard](https://github.com/user-attachments/assets/7421860f-aa58-4834-adc6-061a8e3d5a6f)
+
+[Admin Dashboard](https://github.com/user-attachments/assets/11113000-8c01-4f4b-b898-2425ed9d559d)
+
+![Engineer Dashboard](https://github.com/user-attachments/assets/7d42e620-e363-4e29-8e9f-b371e8650243)
 
 ---
 
