@@ -8,6 +8,10 @@
 
 > [RESOLVENOW VIDEO DEMO](https://drive.google.com/file/d/1ZixwcdQ-nGFCZ_iS4Qb9gQa8HqCDxFzK/view?usp=drive_link)
 
+## 📝 Documentation 
+
+> > [RESOLVENOW VIDEO Docmuntation](https://drive.google.com/file/d/1ZixwcdQ-nGFCZ_iS4Qb9gQa8HqCDxFzK/view?usp=drive_link) 
+
 ---
 
 ## 📸 Screenshots
